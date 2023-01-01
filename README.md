@@ -9,6 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/OpenLayers_logo.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" height="40" />
