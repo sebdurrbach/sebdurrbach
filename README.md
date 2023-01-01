@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="100"/>
 </div>
 <h2 align="center">Things I've touched, things i've broken...</h2> 
-<div id="languages" align="center">
+<h2 id="languages" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="40" />
@@ -20,4 +20,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="40" /> 
-</div>
+</h2>
